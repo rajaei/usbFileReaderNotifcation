@@ -1,0 +1,16 @@
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\bin\Debug\SimpleDetector.exe
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\bin\Debug\SimpleDetector.pdb
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.csproj.AssemblyReference.cache
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\obj\Debug\Dolinay.DetectorForm.resources
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.Form1.resources
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.Properties.Resources.resources
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.csproj.GenerateResource.cache
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.exe
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.pdb
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\bin\Debug\SimpleDetector.exe.config
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\bin\Debug\NLog.dll
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\bin\Debug\NLog.xml
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.csproj.CopyComplete
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\bin\Debug\RestSharp.dll
+C:\Users\Masoud\Desktop\USBFileSenderService\DriveDetector\SimpleDetector\SimpleDetector\bin\Debug\RestSharp.xml
